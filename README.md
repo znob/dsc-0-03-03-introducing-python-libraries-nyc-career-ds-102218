@@ -3,14 +3,14 @@
 
 ##  Introduction
 
-A library (or a module/package) is a pre-written piece of software that you can re-use rather than having to write that functionality yourself. So instead of having to write the code from scratch to plot a bar chart, you can just call the `matplotlib` library instead.
+A library (or a module/package) is a pre-written piece of software that you can re-use rather than having to write that functionality yourself. So instead of having to write the code from scratch to plot a bar chart, you can just call the Matplotlib library instead.
 
 In this lesson, we will look at some of the key libraries used in Python for data science. 
 
 ## Objectives
 You will be able to:
 * Understand and be able to explain what a library is and why is it important
-* Understand and explain the purpose of the key data science libraries in Python (Numpy, Pandas, Seaborn, Matplotlib, SciPy and Scikit-learn, tensorflow, keras and statsmodels)
+* Understand and explain the purpose of the key data science libraries in Python (Numpy, Pandas, Seaborn, Matplotlib, SciPy, Scikit-learn, StatsModels, TensorFlow and Keras
 
 ## Python Libraries for Data Science
 
